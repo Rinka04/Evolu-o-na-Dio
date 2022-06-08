@@ -1,5 +1,6 @@
-#GitBash Comandos#
+# Git Bash Comandos :ledger:
 
-dir= Lista de Diretorios
 
+
+Dir = Lista de Diretórios
 
